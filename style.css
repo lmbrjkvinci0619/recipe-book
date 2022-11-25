@@ -21,3 +21,12 @@ body {
 .home-button {
     padding: 5px;
 }
+
+.grid-container {
+    display: grid;
+}
+
+.recipe-card {
+    grid-auto-flow: column;
+    border: 5px;
+}
